@@ -1,14 +1,14 @@
-const pageConfig = {
-  // Title for your status page
-  title: "数字套利 •「AM科技」's Status Page",
-  // Links shown at the header of your status page, could set `highlight` to `true`
-  links: [
-    { link: 'https://amclubss.com', label: '博客', highlight: true },
-    { link: 'https://809098.xyz', label: 'Blog'},
-    { link: 'https://youtube.com/@AM_CLUBS', label: 'YouTube' },
-    { link: 'https://github.com/amclubs', label: 'GitHub' }, 
-  ],
-}
+// const pageConfig = {
+//   // Title for your status page
+//   title: "数字套利 •「AM科技」's Status Page",
+//   // Links shown at the header of your status page, could set `highlight` to `true`
+//   links: [
+//     { link: 'https://amclubss.com', label: '博客', highlight: true },
+//     { link: 'https://809098.xyz', label: 'Blog'},
+//     { link: 'https://youtube.com/@AM_CLUBS', label: 'YouTube' },
+//     { link: 'https://github.com/amclubs', label: 'GitHub' }, 
+//   ],
+// }
 
 const workerConfig = {
   // Write KV at most every 3 minutes unless the status changed
